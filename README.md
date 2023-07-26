@@ -17,3 +17,4 @@
  - After getting logged in, it will direct to main page where we can visit my records and sign out.
  - In display_pdf.php organization can upload the pdf and users can view them.
  - In signout.php we will get logged out.
+ - we also applied session handling and auto time out to login in 1 hour
